@@ -13,6 +13,8 @@ results/
 log.txt
 unused_results/*
 unused_scripts/*
+CSV_Files/*
+JSON_Files/*
 # Ignore all .pdf, .json, and .jsonl files globally
 *.pdf
 *.csv
@@ -21,3 +23,6 @@ unused_scripts/*
 *.pt
 *.png
 *.txt
+run_transfer_attacks_gpt_models.ipynb
+run_transfer_attacks_anthropic_models.ipynb
+run_transfer_attacks_gemini_models.ipynb
